@@ -1,6 +1,6 @@
 var character = "spider";
-var pubKey = "";
-var privateKey = "";
+var pubKey = "0fb645fe32ae0b61e9750c0543e3f614";
+var privateKey = "313cab61af3042cb4beb65362745de60711a169d";
 
 $(document).ready(function(){
   var ts = Math.round((new Date()).getTime() / 1000);
